@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 19d5b019e4066734a89e0fdeddd69a83
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - menuItem1: {instanceID: 0}
+  - menuItem2: {instanceID: 0}
+  - menuItem3: {instanceID: 0}
+  - spawnPosition1: {instanceID: 0}
+  - spawnPosition2: {instanceID: 0}
+  - spawnPosition3: {instanceID: 0}
+  - characterSelector: {instanceID: 0}
+  - enemySelector: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
